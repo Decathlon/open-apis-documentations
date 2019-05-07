@@ -1,3 +1,6 @@
 [submodule "sports"]
 	path = sports
 	url = https://github.com/decathlon/sports-docs
+[submodule "sports-tracking-data"]
+	path = sports-tracking-data
+	url = git@github.com:Decathlon/sports-tracking-data-documentation.git
