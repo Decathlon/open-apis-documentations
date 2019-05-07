@@ -4,3 +4,6 @@
 [submodule "sports-tracking-data"]
 	path = sports-tracking-data
 	url = git@github.com:Decathlon/sports-tracking-data-documentation.git
+[submodule "sport-places"]
+	path = sport-places
+	url = https://github.com/decathlon/sportplaces-docs
